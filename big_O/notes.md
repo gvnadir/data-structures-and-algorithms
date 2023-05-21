@@ -2,10 +2,8 @@
 
 1. Readable
 2. Scalable (maesurable using big O notation)
-    * Speed
-        How fast is the runtime of the code.
-    * Memory
-        The memory used by the code.
+    * Speed (how fast is the runtime of the code)
+    * Memory (the memory used by the code)
 
 # Big O
 
