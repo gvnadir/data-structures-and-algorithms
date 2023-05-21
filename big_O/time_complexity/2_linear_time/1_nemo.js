@@ -19,6 +19,3 @@ function findNemo(array) {
 }
 
 findNemo(large) // O(n) => Linear Time
-
-// Big O or scalability of code we mean: 
-// When we grow bigger and bigger with our input, how much does the algorithm slow down?
