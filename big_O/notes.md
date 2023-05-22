@@ -1,7 +1,7 @@
 # What is a good code?
 
 1. Readable
-2. Scalable (maesurable using big O notation)
+2. Scalable (maesurable using Big O notation)
     * Speed (how fast is the runtime of the code)
     * Memory (the memory used by the code)
 
@@ -23,7 +23,7 @@ When a program executes, it has two ways to remember things:
     1. The Heap
         Is usually where we store variables that we assign values to.
     2. The Stack
-        Is usually Where we track of our function calls.
+        Is usually where we track of our function calls.
 
 Sometimes there is a tradeoff between saving time and saving space, so you have to decide which one you're optimizing for.
 
